@@ -1,0 +1,53 @@
+S.No,District,Taluka,Location,Date ofCollection,Cr,Fe,Mn,Zn,Cu
+255,Mehsana,,Dharpura,May-18,0.0007,0.147,0.1349,0.0225,0.0019
+256,Mehsana,,Asjol,May-18,0.0077,0.7098,0.4216,0.0083,0.0
+257,Mehsana,,Maguna,May-18,0.0179,0.2344,0.1015,0.0152,0.0
+258,Mehsana,,Panchot,May-18,0.0067,0.1197,0.0369,0.0059,0.0
+259,Mehsana,,Tarabh,May-18,0.0074,0.2035,0.0737,0.07,0.0
+260,Mehsana,,vidaj,May-18,0.0073,0.1306,0.2108,0.0099,0.0
+261,Narmada,NANDOD,Garudeshwar,May-18,0.0,0.0,0.0,0.0,0.0
+262,Narmada,NANDOD,Hirapura,May-18,0.0,0.051,0.03,0.0,0.002
+263,Narmada,Dediapada,Jankh,May-18,0.0,0.135,0.641,0.0,0.003
+264,Narmada,DEDIAPADA,Kanbi pitha,May-18,0.0,0.253,0.016,0.183,0.014
+265,Narmada,Dediapada,Khaidipada,May-18,0.0,0.032,0.012,0.0,0.003
+266,Narmada,NANDOD,Khota amba,May-18,0.0,0.02,0.006,0.0,0.003
+267,Narmada,TILAKWADA,Namaria,May-18,0.0,0.061,0.079,0.0,0.005
+268,Narmada,DEDIAPADA,Nani Singlot,May-18,0.032,0.034,0.041,0.0,0.006
+269,Narmada,Dediapada,Ralda,May-18,0.0,0.014,0.004,0.069,0.002
+270,Narmada,NANDOD,Ringani,May-18,0.0,0.071,0.008,0.008,0.004
+271,Narmada,Sagbara,Salemba 1,May-18,0.0,0.05,0.023,0.0,0.002
+272,Narmada,NANDOD,Sunderpura,May-18,0.0,0.205,0.017,0.0,0.006
+273,Narmada,Sagbara,Umaran,May-18,0.0,0.001,0.005,0.0,0.0
+274,Navsari,JALALPORE,Abrama,May-18,0.02,0.2916,0.0219,0.0038,0.0
+275,Navsari,VANSDA,Chaav,May-18,0.0005,0.1154,0.0123,0.0,0.0
+276,Navsari,JALALPORE,Chinam,May-18,0.0021,0.237,0.0214,0.0198,0.0
+277,Navsari,JALALPORE,Dai,May-18,0.0,0.2882,0.0633,0.012,0.0
+278,Navsari,GAEVI,Duvada,May-18,0.0011,0.77,0.1194,0.0182,0.0002
+279,Navsari,CHIKHLI,Kaliyari,May-18,0.0,0.2908,0.7595,0.0,0.0
+280,Navsari,CHIKHLI,Khergam,May-18,0.0031,1.9,0.0235,0.0146,0.0
+281,Navsari,CHIKHLI,Manav Khadak,May-18,0.0,0.1543,0.1401,0.0074,0.0
+282,Navsari,VANSDA,Moti Valzar,May-18,0.0002,0.127,0.0188,0.0156,0.0
+283,Navsari,NAVSARI,Navsari 1,May-18,0.0129,0.1509,0.1631,0.0048,0.0
+284,Navsari,JALALPORE,Onjal,May-18,0.001,0.1729,0.1721,0.0052,0.0
+285,Navsari,JALALPORE,Ubhrat,May-18,0.0231,0.092,0.2715,0.0476,0.0002
+286,Panchmahals,LUNAWADA,Limbadia peti,May-18,0.0099,0.0457,0.0038,0.0003,0.0015
+287,Panchmahals,LUNAWADA,Kothamba,May-18,0.0037,0.0705,0.0752,0.0,0.0041
+288,Panchmahals,GODHRA,Godhra(Agl Uni),May-18,0.0,0.0651,0.0401,0.0091,0.0021
+289,Panchmahals,GHOGHAMBA,Ranipura,May-18,0.0052,0.039,0.0383,0.0,0.0042
+290,Panchmahals,MORWA (HADAF),Santroad_1,May-18,0.0282,0.0347,0.011,0.0061,0.0015
+291,Panchmahals,MORWA (HADAF),Natapur,May-18,0.0127,0.0685,0.0035,0.0085,0.0037
+292,Panchmahals,MORWA (HADAF),Suliyat,May-18,0.0,0.1622,0.0777,0.0074,0.0016
+293,Panchmahals,SANTRAMPUR,Santrampur1,May-18,0.0349,0.0885,0.0106,0.0094,0.002
+294,Panchmahals,LUNAWADA,Kantha,May-18,0.016,0.0504,0.009,0.008,0.0016
+295,Panchmahals,LUNAWADA,Malekpur1,May-18,0.0207,0.0491,0.0013,0.0099,0.0017
+296,Panchmahals,KHANPUR,Khanpur,May-18,0.0112,0.0411,0.0019,0.007,0.0015
+297,Panchmahals,LUNAWADA,Lunawada,May-18,0.0097,0.0359,0.0951,0.0076,0.0018
+298,Panchmahals,LUNAWADA,Jokha,May-18,0.0323,0.1302,1.99,0.0074,0.0015
+299,Panchmahals,SHEHERA,Shehra,May-18,0.0698,0.0428,0.0538,0.008,0.0026
+300,Panchmahals,GODHRA,Chhabanpur,May-18,0.0077,0.0393,0.0054,0.0085,0.0017
+301,Panchmahals,GODHRA,Godhra (Temple),May-18,0.0061,0.0454,0.008,0.0099,0.0033
+302,Panchmahals,GODHRA,Godhra (School Campus),May-18,0.0079,0.042,0.2622,0.0117,0.028
+303,Panchmahals,GODHRA,Tuwa,May-18,0.0,0.0388,0.0511,0.0207,0.0017
+304,Panchmahals,Kalol,Dhanol,May-18,0.0,0.0287,0.0017,0.0056,0.0016
+305,Panchmahals,KALOL,Vejalpur,May-18,0.0067,0.0251,0.0142,0.0089,0.0023
+306,Panchmahals,GODHRA,Khadki Vadiya,May-18,0.0378,0.0201,0.0186,0.0101,0.0017

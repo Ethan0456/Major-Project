@@ -1,0 +1,50 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Unnamed: 3,Date of,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8
+S.No,District,Taluka,Location,,Cr,Fe,Mn,Zn,Cu
+,,,,Collection,,,,,
+1,Ahmedabad,Bavla,Bavla,May-18,0.0342,0.0656,0.0456,0.0177,0.0032
+2,Ahmedabad,Dhandhuka,Gamph,May-18,0.0287,0.1097,0.0474,0.0248,0.0032
+3,Ahmedabad,Ranpur,Rajpada,May-18,0,0.1527,0.133,0.0123,0.0032
+4,Ahmedabad,Ranpur,Kundali,May-18,0.0036,0.1108,0.051,0.0105,0.0021
+5,Ahmedabad,Viramgam,Endla,May-18,0,0.0849,0.0253,0.0069,0
+6,Ahmedabad,Viramgam,Kumarkhan,May-18,0.0498,0.0382,0.0081,0.006,0.0063
+7,Ahmedabad,Mandal,Mandal2,May-18,0.011,0.1057,0.0752,0.0165,0
+8,Ahmedabad,Viramgam,Viramgam,May-18,0.0167,0.0901,0.1528,0.0142,0
+9,Amreli,lathi,Chavand,May-18,0.0072,0.0429,0.0063,0.0092,0.0021
+10,Amreli,lathi,Tajpur,May-18,0,0,0.0038,0.0051,0.0021
+11,Amreli,lathi,Lathi,May-18,0.013,0.0591,0.029,0.0163,0.0043
+12,Amreli,Babra,Untvad,May-18,0.0056,0.1118,0.0752,0.0145,0.0043
+13,Amreli,Babra,Devaliya,May-18,0.0175,0.0591,0.0241,0.0168,0.0043
+14,Amreli,Amreli,Vankiya,May-18,0.0055,0.002,0.0019,0.0065,0.0021
+15,Amreli,Amreli,Ankadia mota,May-18,0,0.0225,0.0079,0.0114,0.0032
+16,Amreli,Kunkavav vadia,Kunkavav,May-18,0.0344,0.0903,0.0463,0.0195,0.0064
+17,Amreli,bagasara,Vaghania juna,May-18,0.0057,0.0612,0.013,0.0096,0.0032
+18,Amreli,bagasara,Bagasara,May-18,0.0105,0.0752,0.24,0.0154,0.0054
+19,Amreli,Dhari,Morjhar,May-18,0,0.2604,0.0774,0.0163,0.0054
+20,Amreli,Dhari,Dharangani,May-18,0.0074,0.0526,0.0204,0.0154,0.0043
+21,Amreli,Dhari,Virpur,May-18,0,0.2206,0.85,0.0186,0.0043
+22,Amreli,Khamba,Ingorala,May-18,0.0042,0.1398,0.109,0.0159,0.0043
+23,Amreli,Dhari,Chalala,May-18,0.0391,0.0548,0.0461,0.0575,0.0064
+24,Amreli,Dhari,Kerala,May-18,0.01,0.0849,0.748,0.0168,0.0054
+25,Amreli,Kundla savar,Charkhadia1,May-18,0.008,0.002,0.0017,0.0101,0.0043
+26,Amreli,Amreli,Amreli,May-18,0,0.1043,0.291,0.0199,0.0075
+27,Amreli,lathi,Luvariya,May-18,0,0.029,0.005,0.0083,0.0032
+28,Amreli,Lilia,Punjapadar,May-18,0,0.1172,0.0113,0.011,0.0043
+29,Amreli,Jafrabad,Timbi2,May-18,0.009,0.0429,0.0869,0.0168,0.0075
+30,Amreli,Jafrabad,Nageshri,May-18,0.0194,0.0612,0.041,0.0195,0.0096
+31,Amreli,Jafrabad,Jafrabad,May-18,0.0106,0.1452,0.0368,0.0333,0.0118
+32,Amreli,Jafrabad,Bherai,May-18,0.0361,0.0494,0.0324,0.0186,0.0107
+33,Amreli,Rajula,Victor,May-18,0,0.1032,0.144,0.0199,0.0064
+34,Amreli,Rajula,Mandal,May-18,0.0299,0.072,0.0223,0.0186,0.0096
+35,Amreli,Khambha,Trakuda,May-18,0,0.0591,0.0201,0.0145,0.0064
+36,Amreli,Khambha,Bhavardi1,May-18,0.0061,0.1194,0.2192,0.015,0.0075
+37,Amreli,Khambha,Khambha,May-18,0,0.0365,0.0034,0.0298,0.0075
+38,Amreli,Khambha,Vankiya1,May-18,0,0.2572,0.1697,0.0723,0.0171
+39,Amreli,Kundla savar,Badhda,May-18,0.0276,0.0257,0.0078,0.0199,0.0086
+40,Amreli,Kundla savar,Goradka,May-18,0.0132,0.0516,0.0131,0.0172,0.0086
+41,Amreli,Kundla savar,Piyava,May-18,0.0103,0.2884,0.0154,0.0154,0.0064
+42,Amreli,Kundla savar,Salena,May-18,0.0072,0.0569,0.0121,0.0154,0.0064
+43,Amreli,Jafrabad,Kadiyali,May-18,0.0363,0.2109,0.79,0.0244,0.0096
+44,Amreli,Savar Kundla,Vanda,May-18,0,0.0085,0.0038,0.0128,0.0075
+45,Amreli,Savar Kundla,Hipavadli,May-18,0,0,0,0.0096,0.0054
+46,Amreli,Savar Kundla,Fifad,May-18,0.0362,0.3874,0.0426,0.2299,0.0182
+47,Anand,Anand,Adas_DW,May-18,0.043,0.053,0.015,0.001,0.004

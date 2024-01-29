@@ -1,0 +1,53 @@
+S.No,District,Taluka,Location,Date ofCollection,Cr,Fe,Mn,Zn,Cu
+450,Surendranagar,Wadhvan,Dedadra,May-18,0.0,0.2979,0.4012,0.0017,0.0
+451,Surendranagar,Dasada,Dhama,May-18,0.0166,0.0382,0.0081,0.0027,0.0
+452,Surendranagar,Halvad,Halvad2,May-18,0.0429,0.5057,0.017,0.0484,0.0048
+453,Surendranagar,Dasada,Jhinjhuwada,May-18,0.0,0.1317,0.4001,0.003,0.0
+454,Surendranagar,Halvad,Juna Devaliya1,May-18,0.0,0.1005,0.0131,0.0066,0.0
+455,Surendranagar,Dasada,Kherwa,May-18,0.0,0.1525,0.0203,0.0007,0.0
+456,Surendranagar,Dhangadhara,Kukavati,May-18,0.0155,0.1421,0.0148,0.0066,0.0
+457,Surendranagar,Lakhtar,Lakhtar,May-18,0.0046,0.1914,0.1007,0.0027,0.0
+458,Surendranagar,Lakhtar,Modhvana,May-18,0.0022,0.3265,0.104,0.0007,0.0
+459,Surendranagar,Chotila,Moti Moladi,May-18,0.0532,0.0745,0.0165,0.0046,0.0
+460,Surendranagar,Muli,Muli,May-18,0.0212,0.1706,0.0165,0.0027,0.0
+461,Surendranagar,Muli,Nava Raisngpur,May-18,0.0494,0.2901,0.0181,0.0092,0.0
+462,Surendranagar,Lakhtar,Olak,May-18,0.0192,0.2564,0.0287,0.004,0.0
+463,Surendranagar,Dasada,Pipli,May-18,0.0038,0.8512,0.2692,0.0056,0.0
+464,Surendranagar,Dhrangadh,Rajsitapur,May-18,0.0064,1.42,0.0603,0.0063,0.0
+465,Surendranagar,Limbdi,Shiyani,May-18,0.0455,0.3057,0.3302,0.0102,0.0
+466,Surendranagar,Sayla,Sudamda,May-18,0.04,0.5732,0.0547,0.0194,0.0063
+467,Surendranagar,Halvad,Sukhpar,May-18,0.0477,0.3213,0.0165,0.0109,0.0024
+468,Surendranagar,Wadhvan,Surendranagar,May-18,0.0141,0.1239,0.1273,0.0073,0.0
+469,Surendranagar,Chuda,Vanala,May-18,0.0093,0.7732,0.0331,0.0086,0.0
+470,The dangs,The dangs,Aherdi,May-18,0.0,0.3213,0.0425,0.011,0.0
+471,The dangs,The Dangs,Bori Goatha 1,May-18,0.0,0.2661,0.0192,0.01,0.0
+472,The dangs,The Dang,Boripada,May-18,0.0,0.0414,0.003,0.0,0.0
+473,The dangs,The dangs,Chikhli,May-18,0.0,1.895,0.1609,0.0058,0.0
+474,The dangs,The dangs,Chinchnogaotha,May-18,0.0,0.0016,0.0152,0.0,0.0
+475,The dangs,The dangs,Dhumkal,May-18,0.0,0.1362,0.0045,0.0052,0.0
+476,The dangs,The dangs,Ghubita,May-18,0.0,0.3078,0.055,0.0117,0.0
+477,The dangs,The dangs,Jakana,May-18,0.0,0.5248,0.1305,0.0081,0.0
+478,The dangs,The dangs,Kalibel,May-18,0.0,0.1243,0.0698,0.0218,0.0
+479,The dangs,The dangs,Mahal,May-18,0.0,0.2256,0.0518,0.0094,0.0
+480,The dangs,The dangs,Malegaon,May-18,0.0,4.992,0.1257,0.043,0.0018
+481,The dangs,The dangs,Nadak khadi,May-18,0.0,0.0206,0.1188,0.0,0.0
+482,The dangs,The dangs,Nana Pada,May-18,0.0,0.1245,0.0037,0.0071,0.0
+483,The dangs,The dangs,Sakarpatal,May-18,0.0,0.2029,0.0907,0.0068,0.0
+484,The dangs,The dangs,Sodmal,May-18,0.0,0.1768,0.1183,0.0117,0.0
+485,The dangs,The dangs,Subir,May-18,0.0,0.4135,0.0815,0.0025,0.0
+486,The dangs,The dangs,Umberpada,May-18,0.0,0.1822,0.171,0.013,0.0
+487,The dangs,The dangs,Vazat Amba,May-18,0.0,0.2862,0.0206,0.0153,0.0
+488,The dangs,The dangs,Waghai,May-18,0.0,0.0335,0.0552,0.0123,0.0
+489,Vadodara,DABHOI,Amreshwar,May-18,0.0,0.001,0.001,0.0,0.0
+490,Vadodara,JETPUR PAVI,Bhindol,May-18,0.0,0.003,0.107,0.0,0.0
+491,Vadodara,CHHOTA UDAIPUR,Ferkuva,May-18,0.0,0.009,0.012,0.0,0.0
+492,Vadodara,CHHOTA UDAIPUR,Ghamodi,May-18,0.0,0.0,0.0,0.0,0.0
+493,Vadodara,SAVLI,Juna Samalya,May-18,0.0,0.04,0.048,0.0,0.0
+494,Vadodara,Nasvadi,Kaprali,May-18,0.0,0.009,0.001,0.0,0.001
+495,Vadodara,Vadodara City,Kevada Bag,May-18,0.0,0.018,0.0,0.0,0.0
+496,Vadodara,PADRA,Masor,May-18,0.0,0.009,0.0,0.0,0.0
+497,Vadodara,KAVANT,Panwad,May-18,0.0,0.0,0.0,0.004,0.0
+498,Vadodara,KAVANT,Godhi Simore,May-18,0.0,0.466,0.185,0.015,0.0
+499,Vadodara,KAVANT,Saidivasana,May-18,0.0,0.067,0.0,0.001,0.0
+500,Vadodara,NASVADI,Sengpur,May-18,0.0,0.223,0.031,0.052,0.0
+501,Vadodara,JETPUR PAVI,Suskal,May-18,0.0,0.067,0.0,0.0,0.001
