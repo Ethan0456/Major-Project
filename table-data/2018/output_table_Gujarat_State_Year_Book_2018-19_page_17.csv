@@ -1,0 +1,48 @@
+S.No,District,Taluka,Location,Date ofCollection,Cr,Fe,Mn,Zn,Cu
+403,Sabarkantha,KHEDBRAHMA,Poshina2,May-18,0.0096,0.0917,0.1833,0.0,0.0042
+404,Sabarkantha,KHEDBRAHMA,Khedbramha_1,May-18,0.0223,0.1354,0.0318,0.0039,0.0086
+405,Sabarkantha,KHEDBRAHMA,Silwad,May-18,0.0266,0.0859,0.0173,0.0032,0.0088
+406,Sabarkantha,VIJAYNAGAR,Atarsumba_2,May-18,0.0031,0.0,0.0131,0.0004,0.004
+407,Sabarkantha,VIJAYNAGAR,Kherwada,May-18,0.0004,0.4133,0.1375,0.0046,0.0038
+408,Sabarkantha,VIJAYNAGAR,Vijaynagar1,May-18,0.0,0.1884,0.0114,0.0,0.0029
+409,Sabarkantha,BHILODA,Takatuka_1,May-18,0.0144,0.134,0.0143,0.0,0.0051
+410,Sabarkantha,BHILODA,Punasan,May-18,0.0016,0.0718,0.0066,0.0,0.0038
+411,Sabarkantha,MODASA,Gadada,May-18,0.002,0.0577,0.0035,0.0,0.0047
+412,Sabarkantha,MODASA,Medasana,May-18,0.0053,0.0621,0.0012,0.0,0.0023
+413,Sabarkantha,MODASA,Modasa2,May-18,0.0,0.0546,0.0134,0.002,0.0033
+414,Surat,BARDOLI,Allu,May-18,0.0,0.4236,0.0059,0.0,0.0
+415,Surat,VYARA,Bedchit,May-18,0.001,0.4282,0.0217,0.0068,0.0
+416,Surat,Mangrol,Bhatkol,May-18,0.0,0.7415,0.0016,0.0218,0.0
+417,Surat,Kemraj,Digas,May-18,0.0,0.4257,0.0032,0.0391,0.0
+418,Surat,MANGROL,Dungri,May-18,0.0,0.4084,0.8265,0.0156,0.0
+419,Surat,SONGADH,Jesingpura[sg],May-18,0.0,0.4668,0.009,0.0469,0.0
+420,Surat,UMARPADA,Juna Umarpada2,May-18,0.0,2.003,0.1416,0.0065,0.0
+421,Surat,Bardoli,Kadod 1,May-18,0.0,0.1946,0.0123,0.2504,0.0
+422,Surat,VYARA,Karanjvel,May-18,0.0,2.564,0.7365,0.0427,0.0
+423,Surat,MAVI,Kasal,May-18,0.0,0.1863,0.1186,0.0136,0.0
+424,Surat,KAMREJ,Kathor,May-18,0.0002,0.4382,0.1213,0.2397,0.0
+425,Surat,Valod,Kelkui,May-18,0.0,0.1237,0.0015,0.0045,0.0
+426,Surat,Songarh,Kherwada,May-18,0.0,0.0995,0.0059,0.0224,0.0
+427,Surat,MAVI,Malda,May-18,0.0007,0.1943,0.0126,0.0182,0.0
+428,Surat,MAVI,Mavi2,May-18,0.0068,0.4427,0.0406,0.0502,0.0
+429,Surat,Bardoli,Mota,May-18,0.0,0.167,1.45,0.0084,0.0
+430,Surat,VYARA,Moti Chher,May-18,0.0,1.234,0.041,0.0365,0.0
+431,Surat,Maavi,Moti Sarkui,May-18,0.0,0.1831,0.0325,0.0078,0.0
+432,Surat,MAVI,Nogama,May-18,0.0,0.0778,0.0077,0.0,0.0
+433,Surat,OLPAD,Olpad2,May-18,0.0,0.2903,0.2403,0.0048,0.0
+434,Surat,PALSANA,Palsana,May-18,0.0,0.0969,0.0135,0.0032,0.0
+435,Surat,MANGROL,Paneshwar,May-18,0.0,0.1328,0.0146,0.0019,0.0
+436,Surat,CHORASI,Sachin Town,May-18,0.003,0.322,0.9505,0.0159,0.0
+437,Surat,BARDOLI,Sarbhon,May-18,0.0,0.137,0.0106,0.0061,0.0
+438,Surat,CHORASI,Sultanabad,May-18,0.0,0.2637,0.0096,0.0012,0.0
+439,Surat,KAMREJ,Syan,May-18,0.003,0.2416,0.0284,0.013,0.0
+440,Surat,UCHCHHAL,Uchchhal1,May-18,0.0,0.4111,0.0425,0.1601,0.0
+441,Surat,MAVI,Ushker,May-18,0.0,0.1534,0.0119,0.0,0.0
+442,Surat,Mahuva,Vaheval,May-18,0.0,0.2777,0.0218,0.0123,0.0
+443,Surat,VALOD,Valod,May-18,0.0,0.1362,0.0075,0.0081,0.0
+444,Surat,VYARA,Vyara1,May-18,0.0,0.4317,0.0451,0.0175,0.0
+445,Surat,VADALI,Wadali,May-18,0.0018,0.2529,0.1813,0.0074,0.0
+446,Surat,MAVI,Khataradevi,May-18,0.0,0.2976,0.0244,0.1213,0.0
+447,Surendranagar,Wadhvan,Anindra,May-18,0.0,0.1109,0.0087,0.0017,0.0
+448,Surendranagar,Dasada,Bajana,May-18,0.0044,0.0304,0.0059,-0.0026,0.0
+449,Surendranagar,Chotila,Bamanbor,May-18,0.0196,0.3135,0.0397,0.0158,0.0008

@@ -1,0 +1,52 @@
+S.No,District,Taluka,Location,Date ofCollection,Cr,Fe,Mn,Zn,Cu
+307,Panchmahals,KALOL,Kalol UR_1(Nr. School),May-18,0.0413,0.0526,0.0013,0.009,0.009
+308,Panchmahals,KALOL,Kalol UR_2(Nr. Rl St.),May-18,0.0016,0.0274,0.2309,0.009,0.004
+309,Panchmahals,HALOL,Tarkaa,May-18,0.0,0.0,0.0503,0.04,0.0049
+310,Panchmahals,JAMBUGODHA,Javan,May-18,0.0,0.2541,0.0118,0.1207,0.0046
+311,Panchmahals,JAMBUGODHA,Jambugodha,May-18,0.0423,0.0803,0.0058,0.0154,0.0041
+312,Panchmahals,HALOL,Pavagadh,May-18,0.05,0.0673,0.0229,0.0197,0.0049
+313,Patan,Chanasma,Dharmoda 1,May-18,0.0,0.1357,0.1953,0.0095,0.0
+314,Patan,Chanasma,Dhinoj,May-18,0.0,0.0398,0.0133,0.0007,0.0
+315,Patan,Sami,Motichander,May-18,0.024,0.2017,0.034,0.0253,0.0131
+316,Patan,Patan,Patan 2,May-18,0.0052,0.1231,0.1631,0.0108,0.0
+317,Patan,Santhalpur,Piprala,May-18,0.0203,0.1168,0.0197,0.0089,0.0003
+318,Patan,Patan,Sander,May-18,0.0,0.2033,0.035,0.0121,0.0
+319,Patan,Santhalpur,Sankhiani,May-18,0.0,0.1153,0.0139,0.0026,0.0
+320,Porbandar,Porbandar,Mojiwana,May-18,0.042,2.0,0.0869,0.0057,0.0128
+321,Porbandar,Porbandar,Kuchhadi,May-18,0.024,0.1953,0.0609,0.0,0.0079
+322,Porbandar,Porbandar,Ratadi,May-18,0.0214,0.0924,0.0338,0.0,0.0063
+323,Porbandar,Porbandar,Palkhada1,May-18,0.0437,0.0839,0.0421,0.0,0.0108
+324,Porbandar,Porbandar,Visavada,May-18,0.0169,0.045,0.0186,0.0,0.0038
+325,Porbandar,Porbandar,Bhavpura,May-18,0.0391,0.0962,0.0495,0.0,0.0107
+326,Porbandar,Porbandar,Adwana2,May-18,0.0,0.2765,0.0286,0.0038,0.0036
+327,Porbandar,Porbandar,Khambodar,May-18,0.0022,0.0171,0.0075,0.0,0.0018
+328,Porbandar,Porbandar,Babda,May-18,0.0075,0.0389,0.0116,0.0576,0.0014
+329,Porbandar,Porbandar,Kolikhada village-2,May-18,0.0043,0.0306,0.016,0.0171,0.002
+330,Porbandar,Porbandar,Adityana,May-18,0.0036,0.0278,0.0066,0.0102,0.0012
+331,Porbandar,Porbandar,Bakharla,May-18,0.0081,0.0476,0.0294,0.009,0.0022
+332,Porbandar,Ranavav,Ranavav2,May-18,0.0054,0.0204,0.0065,0.0008,0.0014
+333,Porbandar,Ranavav,Kandorna,May-18,0.0279,0.0543,0.0321,0.008,0.0063
+334,Porbandar,Kutiyana,Kutiyana1,May-18,0.0257,0.0769,0.0506,0.0135,0.007
+335,Porbandar,Porbandar,Oddar,May-18,0.029,0.0311,0.0414,0.0044,0.005
+336,Porbandar,Porbandar,Porbandar1,May-18,0.0016,0.142,0.1485,0.0189,0.0063
+337,Porbandar,Porbandar,Navibandar,May-18,0.0,0.1851,0.1488,0.0146,0.0077
+338,Porbandar,Porbandar,Ratia,May-18,0.0114,0.0301,0.0269,0.0021,0.0024
+339,Porbandar,Porbandar,Balej,May-18,0.04,0.0478,0.0507,0.0022,0.0057
+340,Porbandar,Kutiyana,Mocha,May-18,0.0056,0.0607,0.578,0.003,0.0011
+341,Porbandar,Porbandar,Pata,May-18,0.0077,0.134,0.0296,0.0017,0.0019
+342,Rajkot,Morvi,Amar nagar,May-18,0.0447,0.1421,0.0453,0.0178,0.0055
+343,Rajkot,Dhoraji,Bhada jodiya,May-18,0.0,0.1057,0.0686,0.0083,0.0
+344,Rajkot,Wankaner,Bhalgam,May-18,0.0047,0.0771,0.0087,0.0083,0.0
+345,Rajkot,Tankara,Chhatar,May-18,0.0,0.0538,0.0115,0.0,0.0
+346,Rajkot,Gondal,Chordi,May-18,0.0034,0.0745,0.0081,0.004,0.0
+347,Rajkot,Gondal,Dadia,May-18,0.0036,1.3758,0.2648,0.029,0.0087
+348,Rajkot,Dhoraji,Dhoraji1,May-18,0.0227,0.2226,0.0148,0.0069,0.0
+349,Rajkot,Upleta,Ganod,May-18,0.0,0.059,0.0098,0.0043,0.0
+350,Rajkot,Gondal,Gogavadar,May-18,0.0247,0.1031,0.0209,0.0066,0.0
+351,Rajkot,Tankara,Hadmatia,May-18,0.0264,0.0771,0.0098,0.0027,0.0
+352,Rajkot,Rajkot,Halenda,May-18,0.0239,0.1369,0.0259,0.0086,0.0
+353,Rajkot,Jamkandorn,Jasapur,May-18,0.0122,0.059,0.0863,0.003,0.0
+354,Rajkot,Jasdan,Jasdan2,May-18,0.0178,1.0875,0.104,0.0224,0.004
+355,Rajkot,JETPUR,Jetpur pithad.,May-18,0.0007,0.3109,0.0314,0.0296,0.0048
+356,Rajkot,Jasdan,Kamlapur1,May-18,0.0416,0.0668,0.0115,0.0158,0.0032
+357,Rajkot,Tankara,Lajai,May-18,0.0283,1.2797,0.0453,0.0145,0.015

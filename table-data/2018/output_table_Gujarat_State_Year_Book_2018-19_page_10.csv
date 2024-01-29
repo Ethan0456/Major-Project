@@ -1,0 +1,53 @@
+S.No,District,Taluka,Location,Date ofCollection,Cr,Fe,Mn,Zn,Cu
+48,Anand,Anand,Anand,May-18,0.012,0.029,0.147,0.103,0.015
+49,Anand,Anklav,Anklav2,May-18,0.024,0.046,0.016,0.046,0.005
+50,Anand,Petlad,Dharmaj,May-18,0.058,0.05,0.027,0.011,0.007
+51,Anand,Cambay,Kansari1,May-18,0.03,0.375,0.059,0.013,0.01
+52,Anand,Tarapur,Tol,May-18,0.0,0.321,0.216,0.006,0.005
+53,Banaskantha,,Palanpur 2,May-18,0.0053,0.0541,0.004,0.003,0.0
+54,Banaskantha,,Iqbalgad,May-18,0.0,0.1634,0.0012,0.0335,0.0
+55,Banaskantha,,Kidotar,May-18,0.0014,0.0796,0.0035,0.0023,0.0
+56,Banaskantha,,Amirgadh,May-18,0.0045,0.1087,0.0159,0.0039,0.0
+57,Banaskantha,,Ganapipli,May-18,0.0223,0.1579,0.0318,0.0049,0.0004
+58,Banaskantha,,Ratanpura,May-18,0.0161,0.0832,0.0108,0.0023,0.0
+59,Banaskantha,,Mohabbatgadh,May-18,0.0314,0.3164,0.0205,0.0039,0.0012
+60,Banaskantha,,Dantiwada DW,May-18,0.009,0.1725,0.0363,0.0003,0.0
+61,Banaskantha,,Sodapur,May-18,0.0106,0.0887,0.2205,0.0113,0.0
+62,Banaskantha,,Meda,May-18,0.0029,0.1288,0.0193,0.0053,0.0
+63,Banaskantha,,Gangudara,May-18,0.0155,0.1033,0.0369,0.0096,0.0081
+64,Banaskantha,,Jhat,May-18,0.0047,0.0723,0.0063,0.0013,0.0
+65,Banaskantha,,Khoda,May-18,0.0056,0.229,0.1853,0.0083,0.0
+66,Banaskantha,,Bhorol,May-18,0.0,0.0996,0.0612,0.0033,0.0
+67,Bharuch,Vagra,Bhensli,May-18,0.0,0.113,0.044,0.05,0.006
+68,Bharuch,Jambusar,Chhindra,May-18,0.0,0.078,0.143,0.001,0.004
+69,Bharuch,Jambusar,Dahegam,May-18,0.03,0.048,0.287,0.001,0.01
+70,Bharuch,Valia,Jokhla,May-18,0.0,0.085,0.081,0.0,0.01
+71,Bharuch,Bharuch,Kaswa,May-18,0.0,0.324,0.084,0.105,0.008
+72,Bharuch,Jambusar,Kavi,May-18,0.011,0.092,0.061,0.009,0.005
+73,Bharuch,Valia,Kondh,May-18,0.0,0.055,0.044,0.0,0.001
+74,Bharuch,Valia,Mokhdi,May-18,0.0,0.141,0.029,0.0,0.009
+75,Bharuch,Ankleshvar,Motwan,May-18,0.021,0.048,0.034,0.0,0.008
+76,Bharuch,Ankleshvar,Mulad,May-18,0.022,0.089,0.068,0.0,0.009
+77,Bharuch,Bharuch,Navetha,May-18,0.025,0.052,0.182,0.0,0.008
+78,Bharuch,VAGRA,Nirnavi,May-18,0.003,0.262,0.521,0.0,0.004
+79,Bharuch,Ankleshvar,Panoli,May-18,0.037,0.029,0.1,0.005,0.009
+80,Bharuch,AMOD,RojaTankaria,May-18,0.024,0.142,0.28,0.037,0.004
+81,Bharuch,Ankleshvar,Sajod,May-18,0.0,0.041,0.023,0.0,0.004
+82,Bharuch,JHAGADIA,Simodra,May-18,0.021,0.305,1.156,0.005,0.006
+83,Bharuch,Jambusar,Tankari,May-18,0.026,0.066,0.138,0.033,0.009
+84,Bharuch,Netrang,Netrang,May-18,0.0,0.062,0.115,0.0,0.003
+85,Bharuch,Netrang,Juni Jamunia,May-18,0.0,0.031,0.01,0.0,0.007
+86,Bhavnagar,Botad,Tardhera,May-18,0.0437,0.0268,0.145,0.0172,0.0054
+87,Bhavnagar,Gadhada,Tatam,May-18,0.0381,0.0526,0.0583,0.0235,0.0086
+88,Bhavnagar,Gadhada,Ningala,May-18,0.0065,0.0,0.0197,0.0056,0.0
+89,Bhavnagar,Gadhada,Gadhada2,May-18,0.0125,0.0042,0.0057,0.0096,0.0043
+90,Bhavnagar,Gadhada,Dhasa,May-18,0.0225,0.0699,0.0192,0.0141,0.0032
+91,Bhavnagar,Bhavnagar,Bhavnagar,May-18,0.0132,0.0354,0.0012,0.015,0.0045
+92,Bhavnagar,Bhavnagar,Bhubhali,May-18,0.0177,0.0505,0.1078,0.0235,0.0055
+93,Bhavnagar,Talaja,Datha,May-18,0.0108,0.0526,0.1932,0.045,0.0031
+94,Bhavnagar,Gariadhar,Gariadhar,May-18,0.0231,0.1829,0.1281,0.0231,0.0071
+95,Bhavnagar,Ghogha,Ghogha,May-18,0.0228,0.0882,0.0504,0.0248,0.009
+96,Bhavnagar,Umrala,Jalia,May-18,0.0188,0.0656,0.012,0.0266,0.0041
+97,Bhavnagar,Palitana,Khijadiya,May-18,0.1119,0.9052,0.2668,0.0495,0.0891
+98,Bhavnagar,Mahuva,Longadi,May-18,0.0098,0.0569,0.0161,0.0257,0.0068
+99,Bhavnagar,Palitana,Mahuva1,May-18,0.0125,0.0365,0.0224,0.0208,0.004
