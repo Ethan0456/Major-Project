@@ -1,0 +1,54 @@
+## Abstract 
+This study investigates groundwater quality prediction using Enhanced Water Quality Index (EWQI) and Water Quality Index (WQI) formulas. It deals with various regression models and classification models to evaluate the ground water quality indices, namely Entropy Water Quality Index (EWQI) and Water Quality Index (WQI). The analysis of the results shows the best performance in the CatBoost Model with an accuracy of approximately 96 % followed by LightGBM and XGBoost model with the accuracy of 95% accuracy and then followed by RandomForest Classifier with the value of 93% accuracy.
+
+## Introduction 
+Water, as a vital resource for all living organisms, is indispensable for sustaining life. It is imperative that water maintains a certain quality to ensure the survival of various species, including humans. The pollution limits tolerated by aquatic organisms should not be exceeded to prevent detrimental effects on their existence [4].
+
+Water, considered one of Earth's most crucial resources, serves multiple purposes such as drinking, irrigation, and industrial use. Despite covering 75% of the planet's surface, only a small fraction (2.5%) is freshwater. Groundwater, a fundamental source for various activities worldwide, including irrigation and drinking, is susceptible to contamination from human activities, resulting in the leaching of harmful substances like organic matter and nitrates.
+
+Researchers have endeavored to assess the suitability of groundwater for consumption based on several parameters such as pH, Electrical Conductivity (EC), and various ions [5]. However, measuring all these parameters accurately can be challenging and costly[6]. Consequently, the development of water quality indices like WQI and EWQI[8] has emerged as a cost-effective approach to evaluating water quality [7].
+
+Machine learning techniques have gained prominence in predicting groundwater quality for drinking purposes due to their superior performance compared to traditional statistical methods over the past few decades [9].
+
+## Litrature Survey
+
+## Problem Definition
+The project aims to address the challenge of predicting groundwater quality in the Gujarat province. With increasing industrialization, agricultural activities, and urbanization, groundwater contamination has become a significant concern in the region. The lack of accurate and timely assessment tools hampers effective water resource management efforts. Therefore, the project seeks to develop a robust predictive model that can reliably forecast groundwater quality, aiding in informed decision-making for sustainable water management practices in Gujarat.
+
+## Proposed Methodology
+
+## Current Status
+The initial phase of our study involved a comprehensive analysis of the topic, which included a thorough review of relevant research papers to establish a foundational understanding. Subsequently, data acquisition was undertaken by retrieving pertinent information from government websites in PDF format. We then meticulously extracted and compiled this data into a well-structured CSV file encompassing multiple years for comprehensive analysis. Following this, rigorous data cleaning procedures were implemented to ensure the integrity and quality of the dataset.
+
+Furthermore, in our pursuit to explore alternative methodologies beyond the Water Quality Index (WQI), we delved into researching various other methods. Upon establishing a robust dataset, we applied both the Enhanced Water Quality Index (EWQI) and WQI formulas to evaluate groundwater quality.
+
+To assess predictive performance, an array of regression and classification models was employed, enabling a comparative analysis between methodologies and determining the superior approach among EWQI and WQI. Hyperparameter tuning techniques were then utilized to optimize model accuracy.
+
+Finally, the ensemble method of Voting Classifier was applied to further enhance predictive accuracy by aggregating results from multiple models.
+
+## Gantt Chart 
+|--------------------------------- Project A ---------------------------------|
+|          Task 1         |           Task 2          |        Task 3         |
+|-------------------------|---------------------------|-----------------------|
+|    |-----------------|  |-----------------------|  |---------------------|  
+|    |    Subtask 1    |  |     Subtask 2         |  |      Subtask 3      |
+|----|-----------------|---------------------------|-----------------------|
+     Start            Finish                     Start                  Finish
+
+
+## Conclusion
+In conclusion, our study focused on predicting groundwater quality by applying the Water Quality Index (WQI) and Entropy based Water Quality Index (EWQI) formulas to classify water into five distinct categories based on various parameters. By calculating WQI and EWQI values, we were able to assess the overall quality of groundwater samples. 
+Furthermore, we utilized regression and classification techniques to analyze the relationship between input parameters and WQI/EWQI values, as well as to predict the category of groundwater quality and to compare different model's performance. Among the models evaluated, the CatBoost model demonstrated the highest accuracy in classification tasks.
+Overall, our findings suggest that the combination of WQI and EWQI formulas, coupled with advanced machine learning techniques such as CatBoost, can effectively predict groundwater quality and aid in making informed decisions regarding water resource management and environmental conservation efforts.
+
+## Refrences 
+[1]Raheja, H., Goel, A., & Pal, M. (2021, December 1). Prediction of groundwater quality indices using machine learning algorithms. Water Practice & Technology. https://doi.org/10.2166/wpt.2021.120
+[2]Fu, X., Dong, Z., Gan, S., Wang, Z., & Wei, A. (2021, November 22). Groundwater Quality Evaluation for Potable Use and Associated Human Health Risk in Gaobeidian City, North China Plain. Journal of Chemistry. https://doi.org/10.1155/2021/3008567
+[3]Chaudhari, A. N., Mehta, D., & Sharma, N. (2021, March 24). An assessment of groundwater quality in South-West zone of Surat city. Water Science & Technology: Water Supply. https://doi.org/10.2166/ws.2021.083
+[4]Mohamed, I., Othman, F., Ibrahim, A. I. N., Alaa-Eldin, M. E., & Yunus, R. M. (2014, November 30). Assessment of water quality parameters using multivariate analysis for Klang River basin, Malaysia. Environmental Monitoring and Assessment. https://doi.org/10.1007/s10661-014-4182-y
+[5]Vasanthavigar, M., Srinivasamoorthy, K., Vijayaragavan, K., Ganthi, R. R., Chidambaram, S., Anandhan, P., Manivannan, R., & Vasudevan, S. (2010, January 21). Application of water quality index for groundwater quality assessment: Thirumanimuttar sub-basin, Tamilnadu, India. Environmental Monitoring and Assessment. https://doi.org/10.1007/s10661-009-1302-1
+[6]Kumar, V., Amarender, B., Dhakate, R., Sankaran, S., & Kumar, K. (2014, June 15). Assessment of groundwater quality for drinking and irrigation use in shallow hard rock aquifer of Pudunagaram, Palakkad District Kerala. Applied Water Science. https://doi.org/10.1007/s13201-014-0214-6 
+[7]Wang, D., Wu, J., Wang, Y., & Ji, Y. (2019, June 10). Finding High-Quality Groundwater Resources to Reduce the Hydatidosis Incidence in the Shiqu County of Sichuan Province, China: Analysis, Assessment, and Management. Exposure and Health. https://doi.org/10.1007/s12403-019-00314-y 
+[8]Kumar, P. J. S., & Augustine, C. M. (2021, February 23). Entropy-weighted water quality index (EWQI) modeling of groundwater quality and spatial mapping in Uppar Odai Sub-Basin, South India. Modeling Earth Systems and Environment. https://doi.org/10.1007/s40808-021-01132-5 
+[9]Adimalla, N., Qian, H., & Li, P. (2020, December 1). Entropy water quality index and probabilistic health risk assessment from geochemistry of groundwaters in hard rock terrain of Nanganur County, South India. Geochemistry. https://doi.org/10.1016/j.chemer.2019.125544 
+[10]Perumal, B., Rajarethinam, N., Velusamy, A. I. S., & Sundramurthy, V. P. (2023, November 7). Water Quality Prediction Based on Hybrid Deep Learning Algorithm. Advances in Civil Engineering. https://doi.org/10.1155/2023/6644681
