@@ -1,3 +1,4 @@
+District,Location,pH,EC,TDS,CO3,HCO3,Cl,NO3,SO4,F,Alk,Ca,Mg,TH,Na,K
 Rajkot,Lalavadar,8.25,696,466,0,329,36,13,17,0.50,270,76,0.1,190,74,1.2
 Rajkot,Macchukunda,8.22,1360,911,0,232,305,11,42,0.42,190,108,15,330,161,7.2
 Rajkot,Malia,8.14,846,567,0,293,128,7,5,0.47,240,64,15,230,87,17.3
